@@ -7,7 +7,7 @@ from app import calc
 
 
 class CalcTests(SimpleTestCase):
-    """ Test """ 
+    """ Test """
 
     def test_add_numbers(self):
         """Test adding numbers together."""
